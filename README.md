@@ -6,4 +6,5 @@ useR workshop setup
 "adding a line" 
 "This is a line from RStudio at work"A line from the Surface
 credential adding from surface
-Surface Rstudio is awesome
+Surface Rstudio is awesome"Still trying from home" 
+"What is going on" 
